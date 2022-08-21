@@ -11,7 +11,6 @@ module.exports = {
         'red': '#F40051',
         'yellow': '#F7D337',
         'gray-light': '#F5F5F5',
-        'blue-light':'#B4E1FF'
       },
       fontFamily: {
         sans: ['Sora', 'sans-serif']

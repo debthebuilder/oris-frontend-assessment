@@ -6,15 +6,15 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        'white': '#FFFFFF',
-        'black': '#222222',
-        'red': '#F40051',
-        'yellow': '#F7D337',
-        'gray-light': '#F5F5F5',
-        'blue-light':'#B4E1FF'
+        'white': '#1fb6ff',
+        'black': '#7e5bef',
+        'red': '#ff49db',
+        'yellow': '#ff7849',
+        'stone': '#13ce66',
       },
       fontFamily: {
-        sans: ['Sora', 'sans-serif']
+        sans: ['Graphik', 'sans-serif'],
+        serif: ['Merriweather', 'serif'],
       },
     },
   },

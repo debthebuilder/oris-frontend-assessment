@@ -11,7 +11,7 @@ const Banner = () => {
             <Navbar />
             <div className="w-full md:w-5/6 mx-auto">
                 <div className="py-10">
-                    <h1 className="font-normal text-black text-center text-2xl leading-10 md:text-4xl md:leading-relaxed">Join a community of <img src={orisLogo} alt={"Oris Consulting Logo"} className={"inline"} /> <span className="font-semibold">salespeople <br/>helping brands reach their customers</span> <br /> quickly, efficiently and reliably.</h1>
+                    <h1 className="font-normal text-black text-center text-2xl leading-10 md:text-4xl md:leading-12 lg:text-5xl ">Join a community of <img src={orisLogo} alt={"Oris Consulting Logo"} className={"inline"} /> <span className="font-semibold">salespeople <br/>helping brands reach their customers</span> <br /> quickly, efficiently and reliably.</h1>
                 </div>
                 <div className="flex py-5">
                     <div className="w-2/6">
@@ -33,7 +33,7 @@ const Banner = () => {
                             </div>
                         </div>
                         <div className="relative w-96 bg-red mb-5">
-                            <div className="fixed z-0">
+                            <div className="absolute z-0">
                                 <img src={Oluchi} alt="Oluchi Chibuzor | Mid-level Sales Rep" className="w-1/2" />
                             </div>
                             <div className="flex flex-row items-center justify-between z-50">

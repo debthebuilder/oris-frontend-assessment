@@ -11,7 +11,7 @@ const Banner = () => {
             <Navbar />
             <div className="w-full md:w-5/6 mx-auto">
                 <div className="py-10">
-                    <h1 className="font-normal text-black text-center text-2xl leading-10 md:text-4xl lg:leading-relaxed lg:text-5xl ">Join a community of <Logo /> <span className="font-semibold">salespeople <br/>helping brands reach their customers</span> <br /> quickly, efficiently and reliably.</h1>
+                    <h1 className="font-normal text-black text-center text-2xl leading-10 md:text-4xl lg:leading-loose lg:text-5xl ">Join a community of <Logo /> <span className="font-semibold">salespeople <br/>helping brands reach their customers</span> <br /> quickly, efficiently and reliably.</h1>
                 </div>
                 <div className="flex py-5">
                     <div className="w-2/6">

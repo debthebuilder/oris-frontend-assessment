@@ -33,7 +33,7 @@ const Testimonial = () => {
                             </div>
                         </div>
                     </div>
-                    <div className="absolute -right-20 top-32">
+                    <div className="absolute -right-20 top-36">
                         <span className="flex items-center justify-center bg-gray-light bg-opacity-10 w-12 h-12 rounded-full"><i className="fa-solid fa-chevron-right"></i></span>
                     </div>
                 </div>

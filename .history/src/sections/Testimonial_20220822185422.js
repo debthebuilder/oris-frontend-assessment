@@ -9,9 +9,6 @@ const Testimonial = () => {
         <section className="bg-black py-12">
             <Container>
                 <div className="flex flex-row items-start relative">
-                    <div className="absolute -left-20 top-32">
-                        <span className="flex items-center justify-center bg-gray-light bg-opacity-10 w-12 h-12 rounded-full"><i className="fa-solid fa-chevron-left"></i></span>
-                    </div>
                     <div>
                         <div className="border border-4 border-white w-64 h-64 rounded-full">
                             <img src={Naomi} alt={"Naomi Doe"} className={"w-full h-full rounded-full"} />
@@ -32,9 +29,6 @@ const Testimonial = () => {
                                 <img src={RingText} alt={""} />
                             </div>
                         </div>
-                    </div>
-                    <div className="absolute -right-20 top-32">
-                        <span className="flex items-center justify-center bg-gray-light bg-opacity-10 w-12 h-12 rounded-full"><i className="fa-solid fa-chevron-right"></i></span>
                     </div>
                 </div>
             </Container>

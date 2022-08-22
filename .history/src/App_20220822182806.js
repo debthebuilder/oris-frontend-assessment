@@ -19,7 +19,7 @@ function App() {
       <Partners />
       <Spacer height={"h-48"} />
       <JoinOris />
-      <Spacer height={"h-36"} />
+      <Spacer height={"h-24"} />
       <Testimonial />
       <Footer />
     </div>

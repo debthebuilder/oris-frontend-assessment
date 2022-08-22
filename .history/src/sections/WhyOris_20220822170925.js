@@ -36,7 +36,7 @@ const WhyOris = () => {
                         </div>
                     </div>
                     
-                </Container>
+                </div>
             </div>
             <div className="w-full md:w-5/6 mx-auto mt-80">
                 <div className="text-center text-black py-10">

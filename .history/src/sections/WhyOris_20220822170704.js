@@ -1,14 +1,14 @@
 import Button from "../components/Button";
 import Card from "../components/Card";
-import Container from "../components/Container";
 import image from "../assets/images/pexels-ono-kosuki.png";
 import Logo from "../components/Logo";
+import { Container } from "postcss";
 const WhyOris = () => {
     return(
         <section>
             <div className="bg-black pt-24 pb-80  relative">
-                <Container>
-                    
+                <div className="w-full md:w-5/6 mx-auto">
+                    <Container></Container>
                     <div className="">
                         <h2 className="text-white font-medium text-5xl mb-5">Maximize Sales.<br/>Minimize Leakage. <br/>Optimize Control</h2>
                         <Button label={'join oris today'} filled={true} icon={true} />
@@ -36,7 +36,7 @@ const WhyOris = () => {
                         </div>
                     </div>
                     
-                </Container>
+                </div>
             </div>
             <div className="w-full md:w-5/6 mx-auto mt-80">
                 <div className="text-center text-black py-10">

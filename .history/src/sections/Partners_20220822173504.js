@@ -17,13 +17,13 @@ const Partners = () => {
                         <img src={bama} alt={"BAMA"} />
                     </div>
                     <div className="w-1/4">
-                        <img src={gino} alt={"Gino"} />
+                        <img src={gino} alt={""} />
                     </div>
                     <div className="w-1/4">
-                        <img src={ginoMax} alt={"Gino Max"} />
+                        <img src={ginoMax} alt={""} />
                     </div>
                     <div className="w-1/4">
-                        <img src={jago} alt={"jago"} />
+                        <img src={jago} alt={""} />
                     </div>
                 </div>
             </div>

@@ -23,7 +23,7 @@ const Partners = () => {
                         <img src={ginoMax} alt={"Gino Max"} />
                     </div>
                     <div className="w-1/4">
-                        <img src={jago} alt={"jago"} />
+                        <img src={jago} alt={""} />
                     </div>
                 </div>
             </div>

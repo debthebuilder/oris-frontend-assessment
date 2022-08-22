@@ -14,16 +14,16 @@ const Partners = () => {
             <div className="bg-gray-light flex flex-row">
                 <div className="w-full md:w-4/6 md:mx-auto  flex flex-row items-center">
                     <div className="w-1/4">
-                        <img src={bama} alt={"BAMA"} />
+                        <img src={bama} alt={""} />
                     </div>
                     <div className="w-1/4">
-                        <img src={gino} alt={"Gino"} />
+                        <img src={gino} alt={""} />
                     </div>
                     <div className="w-1/4">
-                        <img src={ginoMax} alt={"Gino Max"} />
+                        <img src={ginoMax} alt={""} />
                     </div>
                     <div className="w-1/4">
-                        <img src={jago} alt={"jago"} />
+                        <img src={jago} alt={""} />
                     </div>
                 </div>
             </div>

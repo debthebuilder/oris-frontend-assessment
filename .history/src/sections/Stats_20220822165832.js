@@ -6,7 +6,7 @@ const Stats = () => {
     return(
         <section className="w-full md:w-5/6 mx-auto">
             <h2 className="text-6xl font-light">Early adopters <Logo size={"w-20"} /> have reported...</h2>
-            <div className="flex flex-row items-start">
+            <div className="flex flex-row items-start mt-12">
                 <div className="w-2/6">
                     <span className="block font-medium mt-24"><Logo size="w-7" /> FMCGs</span>
                     <p className="mt-3 mb-5 leading-7">Plug into an end-to-end sales ecosystem powered by people, <br/>data and trust. Optimize your salesforce across all regions.</p>

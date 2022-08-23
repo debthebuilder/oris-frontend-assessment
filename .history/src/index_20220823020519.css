@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    overflow-x: "hidden" !important;
+}
+
+.owl-nav .owl-prev {
+    position: "absolute" !important;
+    left: -5rem;
+    font-size: 36px;
+    background: #F5F5F5;
+    height: 3rem;
+    width: 3rem;
+    border-radius: 50%;
+}

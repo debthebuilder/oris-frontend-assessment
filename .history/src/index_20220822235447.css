@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    overflow-x: "hidden";
+}
+
+.owl-carousel .owl-prev {
+    position: "absolute" !important;
+    left: -5rem;
+    
+}

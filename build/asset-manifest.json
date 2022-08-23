@@ -1,25 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.053954a3.css",
-    "main.js": "/static/js/main.bdddc44f.js",
+    "main.css": "/static/css/main.39cc44d7.css",
+    "main.js": "/static/js/main.9c989807.js",
     "static/js/787.d4284687.chunk.js": "/static/js/787.d4284687.chunk.js",
-    "static/media/profile.svg": "/static/media/profile.3087cf7f12437994c05e7bcc373cb4b9.svg",
-    "static/media/pexels-ono-kosuki.png": "/static/media/pexels-ono-kosuki.1b475d95b642889039a6.png",
-    "static/media/OluchiChibuzor.png": "/static/media/OluchiChibuzor.c553ec87bbf552fa8fe3.png",
-    "static/media/FrancisAyooluwa.png": "/static/media/FrancisAyooluwa.53ca6fe42d4ac24172e6.png",
-    "static/media/AishaCalistus.png": "/static/media/AishaCalistus.8c0970d485a21e5b6914.png",
-    "static/media/naomiDoe.png": "/static/media/naomiDoe.efdbb53dea34a6c13a82.png",
-    "static/media/stat.svg": "/static/media/stat.079eece92d2102f9b9bf91b6e759a880.svg",
-    "static/media/ringText.svg": "/static/media/ringText.0887df04a70bd247b16b0a99695a8b50.svg",
-    "static/media/pexels-cottonbro.png": "/static/media/pexels-cottonbro.c1177ffcc5e3d683f7cd.png",
-    "static/media/oris-logo.svg": "/static/media/oris-logo.11d1c3e7c3397c2bdf9227e2b201ba17.svg",
+    "static/media/stat.webp": "/static/media/stat.3bc6f89511677170d68a.webp",
+    "static/media/profile.webp": "/static/media/profile.df0650b4ca5a4786ee25.webp",
+    "static/media/pexels-ono-kosuki.webp": "/static/media/pexels-ono-kosuki.a659c5bf917024a5ebb4.webp",
+    "static/media/FrancisAyooluwa.webp": "/static/media/FrancisAyooluwa.22ab23c82311593b8c18.webp",
+    "static/media/OluchiChibuzor.webp": "/static/media/OluchiChibuzor.c8f8af8da7704069c29a.webp",
+    "static/media/AishaCalistus.webp": "/static/media/AishaCalistus.5d0a24b06f0cfd6b415d.webp",
+    "static/media/naomiDoe.webp": "/static/media/naomiDoe.19ec19c4952d6a90f31d.webp",
+    "static/media/NaomiSign.webp": "/static/media/NaomiSign.96617d1d1c87edc8b87f.webp",
+    "static/media/ringText.webp": "/static/media/ringText.ed2805bf85221d08d9da.webp",
+    "static/media/pexels-cottonbro.webp": "/static/media/pexels-cottonbro.f2566d23bffaaff8d1d9.webp",
+    "static/media/oris-logo.webp": "/static/media/oris-logo.e901d8a1ee61c2e80445.webp",
+    "static/media/portrait-expressive-african-american-woman.webp": "/static/media/portrait-expressive-african-american-woman.7c093de3a91a805a271b.webp",
+    "static/media/marcus-santos.webp": "/static/media/marcus-santos.0195674a9b3ad5d431b0.webp",
     "index.html": "/index.html",
-    "main.053954a3.css.map": "/static/css/main.053954a3.css.map",
-    "main.bdddc44f.js.map": "/static/js/main.bdddc44f.js.map",
+    "main.39cc44d7.css.map": "/static/css/main.39cc44d7.css.map",
+    "main.9c989807.js.map": "/static/js/main.9c989807.js.map",
     "787.d4284687.chunk.js.map": "/static/js/787.d4284687.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.053954a3.css",
-    "static/js/main.bdddc44f.js"
+    "static/css/main.39cc44d7.css",
+    "static/js/main.9c989807.js"
   ]
 }
